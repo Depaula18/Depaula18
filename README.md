@@ -2,7 +2,15 @@
 
 <hr>
 
-Developer with 4 years of experience in web development, specializing in front-end and back-end technologies. A committed team player with expertise in Python, C#, and the .NET framework, collaborating on the creation of scalable and robust applications and implementing technological solutions that improve the company's operational efficiency.
+I am a software developer with 4 years of experience in web development, working as a full stack engineer focused on delivering real business impact through technology.
+
+I have experience with Python, C#, and the .NET ecosystem, building scalable, resilient, and high-performance applications. 
+
+Throughout my career, I have been evolving not only technically but also in my ability to understand the product, business context, and strategic priorities.
+
+I believe that code alone does not create value, the key is understanding the right problem. That’s why I focus on bridging technology and business, contributing to technical decisions, prioritization, and identifying opportunities to improve operational efficiency and user experience.
+
+I have a collaborative mindset, strong analytical thinking, and a continuous improvement approach, actively contributing to discussions around architecture, product, and system evolution.
 
 <hr>
 

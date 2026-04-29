@@ -16,6 +16,7 @@ I have a collaborative mindset, strong analytical thinking, and a continuous imp
 
 ### Featured Projects⚡
 - [College Final Paper](https://github.com/Depaula18/TCC): APLICAÇÃO DE REDES NEURAIS GENERATIVAS ADVERSARIAIS NA GERAÇÃO DE IMAGENS COM EMOÇÕES
+- [Game Catalog System](https://github.com/Depaula18/game-catalog-system): A complete Full Stack application for managing game catalogs.
 
 <hr>
 

@@ -1,4 +1,4 @@
-👋 Hi there. My name is Murilo Filheiro de Paula - Full Stack Developer.
+👋 Hi there. My name is [Murilo Filheiro de Paula](https://depaula-dev.vercel.app/) - Full Stack Developer.
 
 <hr>
 
@@ -19,6 +19,8 @@ I have a collaborative mindset, strong analytical thinking, and a continuous imp
 - [Game Catalog System](https://github.com/Depaula18/game-catalog-system): A complete Full Stack application for managing game catalogs.
 - [Lupa Legal](https://github.com/Depaula18/Legal-Text-Simplifier): A Full Stack application for analyzing Terms of Use and Privacy Policies using AI.
 - [404 Time Machine](https://github.com/Depaula18/time-machine-api): A Full Stack browser extension that resurrects dead links.
+- [Portfolio](https://github.com/Depaula18/depaula.dev): The official repository of my web portfolio, focused on high performance, and advanced user interface (UI/UX) design.
+
 
 <hr>
 
